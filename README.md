@@ -5,7 +5,7 @@ I am Dan Anderson.  I have over 15 years of experience as a tech minded software
 In addition to my professional pursuits I am the product and tech lead for two exciting projects:
 
 - **xPathway** (https://xpathway.com): xPathway helps small businesses use simple text messaging to connect with their most important customers enabling users to track and redeem promotions at the text level(!) and reach new customers via the "friend network effect"
-- **RPAChain** (https://rpachain.io): RPAChain.io brings the power of blockchain to the RPA (Robotic Process Automation) world enabling users to notarize events, data, & content generated from RPA scripts to an immutable, decentralized blockchain.  RPAChain.io enables RPA processes to unleash the power of smartcontracts and friction-free payments.
+- **RPAChain** (https://rpachain.io): RPAChain.io brings the power of blockchain to the RPA (Robotic Process Automation) world enabling users to notarize events, data, and content generated from RPA scripts to an immutable, decentralized blockchain.  RPAChain.io enables RPA processes to unleash the power of smartcontracts and friction-free payments.
 
 Swing by my LinkedIn profile here: https://linkedin.com/in/danoand
 <!--
