@@ -1,6 +1,6 @@
 ### Hey... I'm Dan Anderson 👋
 
-I am Dan Anderson.  I have over 15 years of experience as a tech minded software Product Manager.  I am currently finishing up Lambda School's Data Science program (https://lambdaschool.com) with a focus on statistical inference, data analytics, and machine learning.  Other interests are the Go (Golang) programming language, MongoDB, and web3 blockchain technologies - in particular GoChain (https://gochain.io)
+I am Dan Anderson.  I have over 15 years of experience as a tech minded software Product Manager.  I am a recent graduate of Lambda School's Data Science program (https://lambdaschool.com) with a focus on statistical inference, data analytics, and machine learning.  Other interests are the Go (Golang) programming language, MongoDB, and web3 blockchain technologies - in particular GoChain (https://gochain.io) and of course digital products and services.
 
 In addition to my professional pursuits I am the product and tech lead for two exciting projects:
 
